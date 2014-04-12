@@ -1,0 +1,155 @@
+/** Define general colors */
+/* page title */
+/* article title */
+/* black */
+body.black {
+  background-color: #1e2031;
+  color: #ffffff;
+}
+body.black h1 a,
+body.black h2 a {
+  color: #fcbb78;
+  border-bottom: none;
+  text-decoration: none;
+}
+body.black h1,
+body.black h2 {
+  color: #fcbb78;
+  border-bottom: solid 1px #fcbb78;
+}
+body.black a {
+  color: #70dbff;
+}
+body.black .menu a,
+body.black div#menu-top a {
+  text-decoration: underline;
+}
+/** Block styles */
+body.black div#wrapper {
+  background: #000022;
+  border: solid 2px #000a2c;
+}
+body.black div.random-image {
+  background-color: #1e2031;
+}
+body.black div#footer {
+  color: #ffff00;
+  background-color: #1e2031;
+}
+body.black div#menu-top {
+  background-color: #000a2c;
+}
+body.black div#menu-top a {
+  color: #ffffff;
+}
+body.black .module-title {
+  color: #ffffff;
+  background-color: #000a2c;
+}
+body.black .moduletable_menu,
+body.black .moduletable {
+  border: solid 1px #000a2c;
+}
+body.black div#footer a {
+  color: #ffffff;
+}
+body.black div.componentheading {
+  color: gray;
+  font-weight: bold;
+}
+body.black .article-info {
+  color: #b2e0e5;
+}
+body.black a {
+  color: #ffff00;
+}
+body.black .readmore a {
+  font-weight: bold;
+}
+body.black .readmore a:hover {
+  color: black;
+  background: #ffff00;
+}
+body.black .menu a {
+  color: #ffff00;
+}
+body.black .button,
+body.black button,
+body.black .button-search {
+  border: solid 1px #ffffff;
+  background: #fba44b;
+  color: #000000;
+}
+body.black .button:hover,
+body.black button:hover,
+body.black .button-search:hover {
+  background: #ffc66d;
+}
+body.black div#accessibility-links span.accessibility-icon button,
+body.black div#accessibility-links span.accessibility-icon {
+  background-color: black;
+}
+body.black div#accessibility-links span.accessibility-icon button:hover {
+  background-color: gray;
+}
+body.black #system-message dt {
+  font-weight: bold;
+}
+body.black #system-message dd {
+  margin: 0;
+  font-weight: bold;
+  text-indent: 0px;
+  background: gray;
+  padding: 0;
+}
+body.black #system-message dd ul {
+  color: #ffff00;
+  margin-bottom: 10px;
+  list-style: none;
+  padding: 0px;
+  border-top: 3px solid #ffff00;
+  border-bottom: 3px solid #ffff00;
+}
+/* System Standard Messages */
+body.black #system-message dt.message {
+  display: none;
+}
+body.black #system-message dd.message ul {
+  background: #808080;
+}
+/* System Error Messages */
+body.black #system-message dt.error {
+  display: none;
+}
+body.black #system-message dd.error ul {
+  color: #ffff00;
+  background: gray ;
+  border-top: 3px solid #ffff00;
+  border-bottom: 3px solid #ffff00;
+  margin: 0;
+}
+/* System Notice Messages */
+body.black #system-message dt.notice {
+  display: none;
+}
+body.black #system-message dd.notice ul {
+  color: #ffff00;
+  background: gray;
+  border-top: 3px solid #ffff00;
+  border-bottom: 3px solid #ffff00;
+}
+/* Since 1.7 */
+body.black .star {
+  color: #CC0000;
+}
+body.black .panel h3.pane-toggler a {
+  background: #000a2c url(../images/slider_plus.png) right top no-repeat;
+  border-bottom: 1px solid #DDDDDD;
+}
+body.black .panel h3.pane-toggler-down a {
+  background: #000a2c url(../images/slider_minus.png) right top no-repeat;
+  border-bottom: 1px solid #DDDDDD;
+}
+body.black .cat-list-row1 {
+  background-color: #222244;
+}
