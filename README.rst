@@ -1,6 +1,8 @@
 SCOPO DEL PROGETTO
 ------------------
-Rendere conforme alla legge "Stanca" il FE di Joomla 2.5 e successive
+Joomla! FAP è un progetto per ottenere una versione di Joomla! accessibile e conforme alle normative italiane per i siti acessibili delle pubbliche amministrazioni.
+
+Joomla! FAP permette di avere un sito Joomla! conforme con il livello AAA del WCAG.
 
 CONTENUTO DEL PROGETTO
 ----------------------
@@ -11,7 +13,7 @@ CONTENUTO DEL PROGETTO
 
 AUTORE
 ------
-(C) 2008-2012 Alessandro Pasotti
+(C) 2008-2014 Alessandro Pasotti
 http://www.itopen.it
 
 CONTRIBUTI DI (in ordine cronologico)
@@ -31,9 +33,8 @@ http://www.fsf.org/licensing/licenses/agpl-3.0.html
 DEPOSITO CODICE
 ---------------
 
-Il codice viene mantenuto su:
+Il codice viene mantenuto su github https://github.com/elpaso/joomla-fap-3
 
-https://github.com/elpaso/joomla-fap-17
 
 
 SEGNALAZIONE ERRORI
@@ -51,13 +52,13 @@ Se sei un utilizzatore e questo progetto ti ha risolto un problema o fatto rispa
 
 ASSISTENZA
 ----------
-L'autore è disponibile per contratti di assistenza, sviluppo moduli e componenti custom per Joomla FAP e per Joomla in generale.
+L'autore è disponibile per contratti di assistenza, sviluppo moduli e componenti custom per Joomla! FAP e per Joomla! in generale.
 
 Contattare: http://www.itopen.it
 
 * per le consulenze gratuite c'è il forum:
 http://forum.joomla.it/index.php?board=23.0
-* non usare il tracker di github per le richieste di assistenza, l'uso del tracker è riservato agli sviluppatori
+* non usare il tracker di github per le richieste di assistenza, l'uso del tracker è riservato agli sviluppatori per la segnalazione di bug e feature request.
 
 
 STYLESHEET PERSONALIZZATO
